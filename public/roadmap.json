@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "title": "Feedly integration",
+    "status": "planned",
+    "description": "Add integration to use Feedly with FeedFrenzy"
+  },
+  {
+    "id": "2",
+    "title": "Add additional themes",
+    "status": "planned"
+  }
+]
